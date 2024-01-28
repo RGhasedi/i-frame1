@@ -1,0 +1,40 @@
+a {
+    margin: 2rem 1.6rem 4rem;
+    padding: 26px 60px;
+    background-color: rgba(245, 245, 220, 0.756);
+    font:italic bold 20px gerin, serif; 
+    display: inline-block;
+
+}
+
+a:link {
+    color: #000;
+    text-decoration: none ;
+}
+
+a:visited {
+    color: rgb(192, 115, 152);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(150, 54, 54);
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(238, 255, 0);
+    text-decoration:none;
+}
+
+iframe { 
+    margin: 0 500px; 
+    background-color: #dfeaf0;
+    border: solid 1px #55595b;
+    width: 20rem;
+    height: 20rem;
+}
+    
+    
+
+
